@@ -1,0 +1,59 @@
+body {
+  background-color: hsl(47, 88%, 63%);
+}
+
+.custom-card {
+  margin-top: 150px;
+  border: 1px solid black;
+  box-shadow: 5px 10px;
+  border-radius: 2%;
+  padding: 5px;
+}
+
+.publish {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  margin-top: 15px;
+  margin-left: 20px;
+
+}
+
+.img-1 {
+    border-radius: 25px;
+    padding: 10px;
+}
+
+.title {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 25px;
+}
+
+.button {
+  background-color: hsl(47, 88%, 63%);
+  color: black;
+  font-weight: bold;
+  margin-top: 25px;
+  margin-left: 20px;
+}
+
+.span-name {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  padding-left: 5px;
+}
+
+.img-2 {
+  max-width: 13%;
+}
+
+.text-color{
+    color: grey;
+    font-weight: normal;
+}
